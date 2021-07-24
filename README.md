@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nicosposaro
+- 🌎 I'm from Buenos Aires, Argentina.
+- 👀 I’m interested in economics and machine learning.
+- 🌱 I’m currently learning econometrics.
+- 💞️ I’m looking to collaborate on machine learning models.
+- 📫 How to reach me: nicolas.p.sposaro@gmail.com
